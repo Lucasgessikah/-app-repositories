@@ -1,10 +1,5 @@
-# LAB - Criando um App para Apresentar seu Portfólio do GitHub
-O curso pode ser acessado na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ezequiel_Messore-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezequielmessore/)](https://www.linkedin.com/in/ezequielmessore/)  [![Gmail Badge](https://img.shields.io/badge/-ezequielmessore@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ezequielmessore@gmail.com)](mailto:ezequielmessore@gmail.com)
-
 ## <br />Descrição do Lab.
-Crie um App Android para apresentar seu portfólio de projetos do GitHub de maneira elegante e simplificada. Nesse contexto, você passará por todo o processo de desenvolvimento usando o Kotlin, uma das linguagens de programação de maior ascensão nos últimos anos. Por fim, você é desafiado a entregar seu próprio projeto, incorporando suas próprias evoluções e melhorias! Está preparado?
+Criando um App Android para apresentar seu portfólio de projetos do GitHub de maneira elegante e simplificada.
 
 ## Aulas e materiais de estudo.
 - Aula - 01: Apresentação pessoal e apresentação do curso.
